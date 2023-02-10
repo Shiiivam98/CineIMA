@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:rgb(15 23 42);
+    color:snow;
+}
+.card{
+    background-color: rgb(26, 42, 79);
+}
+.header{
+    background-color: rgb(15 23 42);
+}
+.hey{
+    height:25vh ;
+    width: 20vh;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
